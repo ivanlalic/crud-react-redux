@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/crud-react-redux/static/css/main.1be66aa6.chunk.css",
-    "main.js": "/crud-react-redux/static/js/main.6d1f4f12.chunk.js",
-    "main.js.map": "/crud-react-redux/static/js/main.6d1f4f12.chunk.js.map",
+    "main.js": "/crud-react-redux/static/js/main.994d3368.chunk.js",
+    "main.js.map": "/crud-react-redux/static/js/main.994d3368.chunk.js.map",
     "runtime-main.js": "/crud-react-redux/static/js/runtime-main.2c01c9fe.js",
     "runtime-main.js.map": "/crud-react-redux/static/js/runtime-main.2c01c9fe.js.map",
-    "static/js/2.cd1296c8.chunk.js": "/crud-react-redux/static/js/2.cd1296c8.chunk.js",
-    "static/js/2.cd1296c8.chunk.js.map": "/crud-react-redux/static/js/2.cd1296c8.chunk.js.map",
+    "static/js/2.7bcdc515.chunk.js": "/crud-react-redux/static/js/2.7bcdc515.chunk.js",
+    "static/js/2.7bcdc515.chunk.js.map": "/crud-react-redux/static/js/2.7bcdc515.chunk.js.map",
     "static/js/3.0a226b75.chunk.js": "/crud-react-redux/static/js/3.0a226b75.chunk.js",
     "static/js/3.0a226b75.chunk.js.map": "/crud-react-redux/static/js/3.0a226b75.chunk.js.map",
     "index.html": "/crud-react-redux/index.html",
     "static/css/main.1be66aa6.chunk.css.map": "/crud-react-redux/static/css/main.1be66aa6.chunk.css.map",
-    "static/js/2.cd1296c8.chunk.js.LICENSE.txt": "/crud-react-redux/static/js/2.cd1296c8.chunk.js.LICENSE.txt"
+    "static/js/2.7bcdc515.chunk.js.LICENSE.txt": "/crud-react-redux/static/js/2.7bcdc515.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2c01c9fe.js",
-    "static/js/2.cd1296c8.chunk.js",
+    "static/js/2.7bcdc515.chunk.js",
     "static/css/main.1be66aa6.chunk.css",
-    "static/js/main.6d1f4f12.chunk.js"
+    "static/js/main.994d3368.chunk.js"
   ]
 }
